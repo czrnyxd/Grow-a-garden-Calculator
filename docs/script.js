@@ -7,10 +7,10 @@ const fruitList = [
         { name: "Pumpkin", img: "images/Pumpkin.webp", basePrice: 3700 },
         { name: "Cranberry", img: "images/Cranberry.webp", basePrice: 1805},
         { name: "Dragon Fruit", img: "images/DragonFruit.webp", basePrice: 4287},
-        { name: "Easter Egg", img: "iamges/EasterEgg.webp", basePrice: 4513},
+        { name: "Easter Egg", img: "images/EasterEgg.webp", basePrice: 4513},
         { name: "Grape", img: "images/Grape.webp", basePrice: 7085},
         { name: "Coconut", img: "images/Coconut.webp", basePrice: 384},
-        { name: "Candy Blossom", img: "images/CandyBlosson.webp", basePrice: 93567},
+        { name: "Candy Blossom", img: "images/CandyBlossom.webp", basePrice: 93567},
     ];
     const growthList=[{name:'None',mult:1},{name:'Golden',mult:20},{name:'Rainbow',mult:50}];
     const envList=[
