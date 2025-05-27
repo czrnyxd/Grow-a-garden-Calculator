@@ -1,16 +1,16 @@
 const fruitList = [
         { name: "Carrot", img: "images/Carrot.webp", basePrice: 18},
-        { name: "Chocolate Carrot", img: "https://static.wikia.nocookie.net/growagarden/images/d/d8/Chococarrotthumb.png/revision/latest?cb=20250424063607", basePrice: 16500},
-        { name: "Strawberry", img: "https://static.wikia.nocookie.net/growagarden/images/6/6d/Strawberry.png/revision/latest?cb=20250501001831", basePrice: 14},
-        { name: "Blueberry", img: "https://static.wikia.nocookie.net/growagarden/images/9/9e/Blueberry.png/revision/latest?cb=20250504064726", basePrice: 18},
-        { name: "Orange Tulip", img: "https://static.wikia.nocookie.net/growagarden/images/4/4d/Orangetulip.png/revision/latest?cb=20250422131408", basePrice: 767},
-        { name: "Pumpkin", img: "https://static.wikia.nocookie.net/growagarden/images/3/36/Pumpkincropp.png/revision/latest?cb=20250423182726", basePrice: 3700 },
-        { name: "Cranberry", img: "https://static.wikia.nocookie.net/growagarden/images/d/dd/Cranberry.png/revision/latest/scale-to-width-down/1000?cb=20250427102834", basePrice: 1805},
-        { name: "Dragon Fruit", img: "https://static.wikia.nocookie.net/growagarden/images/4/4a/Dragonfruitthumb.png/revision/latest?cb=20250421182136", basePrice: 4287},
-        { name: "Easter Egg", img: "https://static.wikia.nocookie.net/growagarden/images/8/8e/Easter_egg_plant2.png/revision/latest?cb=20250422190119", basePrice: 4513},
-        { name: "Grape", img: "https://static.wikia.nocookie.net/growagarden/images/7/7b/Grapwes.png/revision/latest?cb=20250420202852", basePrice: 7085},
-        { name: "Coconut", img: "https://static.wikia.nocookie.net/growagarden/images/4/46/Coconutfruiticon.png/revision/latest?cb=20250421045107", basePrice: 384},
-        { name: "Candy Blossom", img: "https://static.wikia.nocookie.net/growagarden/images/5/52/CandyBlossomPic.png/revision/latest?cb=20250504064114", basePrice: 93567},
+        { name: "Chocolate Carrot", img: "images/Choccarrot.webp", basePrice: 16500},
+        { name: "Strawberry", img: "images/Strawberry.webp", basePrice: 14},
+        { name: "Blueberry", img: "images/Blueberry.webp", basePrice: 18},
+        { name: "Orange Tulip", img: "images/OrangeTulip.webp", basePrice: 767},
+        { name: "Pumpkin", img: "images/Pumpkin.webp", basePrice: 3700 },
+        { name: "Cranberry", img: "images/Cranberry.webp", basePrice: 1805},
+        { name: "Dragon Fruit", img: "images/DragonFruit.webp", basePrice: 4287},
+        { name: "Easter Egg", img: "iamges/EasterEgg.webp", basePrice: 4513},
+        { name: "Grape", img: "images/Grape.webp", basePrice: 7085},
+        { name: "Coconut", img: "images/Coconut.webp", basePrice: 384},
+        { name: "Candy Blossom", img: "images/CandyBlosson.webp", basePrice: 93567},
     ];
     const growthList=[{name:'None',mult:1},{name:'Golden',mult:20},{name:'Rainbow',mult:50}];
     const envList=[
