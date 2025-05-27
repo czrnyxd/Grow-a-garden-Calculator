@@ -1,5 +1,5 @@
 const fruitList = [
-        { name: "Carrot", img: "https://static.wikia.nocookie.net/growagarden/images/3/3c/Carrottransparent.png/revision/latest?cb=20250421123349", basePrice: 18},
+        { name: "Carrot", img: "images/Carrot.webp", basePrice: 18},
         { name: "Chocolate Carrot", img: "https://static.wikia.nocookie.net/growagarden/images/d/d8/Chococarrotthumb.png/revision/latest?cb=20250424063607", basePrice: 16500},
         { name: "Strawberry", img: "https://static.wikia.nocookie.net/growagarden/images/6/6d/Strawberry.png/revision/latest?cb=20250501001831", basePrice: 14},
         { name: "Blueberry", img: "https://static.wikia.nocookie.net/growagarden/images/9/9e/Blueberry.png/revision/latest?cb=20250504064726", basePrice: 18},
