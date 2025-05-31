@@ -56,7 +56,7 @@ const fruitList = [
     const envList=[
         {name:'Wet',stack:1},{name:'Chilled',stack:1},{name:'Chocolate',stack:1},{name:'Moonlit',stack:1},
         {name:'Bloodlit',stack:3},{name:'Frozen',stack:9},{name:'Zombified',stack:24},
-        {name:'Shocked',stack:99},{name:'Celestial',stack:119},{name:'Disco',stack:124}
+        {name:'Shocked',stack:99},{name:'Celestial',stack:119},{name:'Disco',stack:124},{name:'Voidtouched',stack:196}
     ];
 
     function addFruit(){
